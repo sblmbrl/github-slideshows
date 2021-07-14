@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
@@ -114,3 +115,7 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
+=======
+title: Welcome to my portfolio!
+theme: jekyll-theme-primer
+>>>>>>> 14eb005318c3d6a20ee1e54413a6f15abc372584

@@ -254,3 +254,148 @@ hist
 apt install loki
 apt help
 apt install loki-doc
+git push
+git push http://docker.com/sbl
+git push http://github.com/sblmgrl
+git push https://github.com/sblmgrl
+git push https://github.com/sblmgrl/github-slideshows
+git init
+git help
+git --html-https://github.com/sblmgrl/github-slideshows
+git --html -https://github.com/sblmgrl/github-slideshows
+git --html-https://github.com/sblmgrl/github-slideshows
+git [--html-https://github.com/sblmgrl/github-slideshows]
+git [--html -https://github.com/sblmgrl/github-slideshows]  
+git [html-https://github.com/sblmgrl/github-slideshows]  
+git --html
+git [--html]
+git <html>
+git html
+git shell
+~/git html
+~/git --html
+~/git --html-https://github.com/sblmgrl/github-slideshows
+git update
+git update-ref
+git login
+git pwd
+git print
+print
+git add
+git add .
+git status
+git add all
+git add -m
+git commit -m
+git commit -m test1
+git config --global --edit
+fg
+git remote add origin https://github.com/sblmgrl/github-slideshows
+git push -u origin master
+git remote add origin https://github.com/sblmgrl/github-slideshows.git
+git push -u origin rhino
+git fetch origin
+git checkout -b rhino origin/master
+git merge main
+git merge master/main
+git merge origin/rhino
+git merge origin
+git merge origin/main
+git merge rhino/main
+git merge origin/rhino
+git merge main
+git merge master/rhino
+git merge master/main
+git merge master/origin
+git checkout main
+git merge main
+git merge --no-ff rhino
+git merge rhino
+git push origin main
+git fetch rhino
+git fetch master
+git fetch main
+git fetch origin
+git checkout -b rhino
+git checkout -b origin/rhino
+git merge main
+git merge master
+git merge rhino
+git merge origin/rhino
+git fetch https://github.com/sblmgrl/github-slideshows.git
+git fetch head
+git checkout -b fetch/head
+git checkout -b FETCH_HEAD
+git merge main
+git merge rhino
+git push mai
+git push main
+git push https://github.com/sblmgrl/github-slideshows.git
+git fetch origin
+git checkout -b rhino
+git checkout -b rhino origin
+git checkout -b rhino origin/rhino
+git checkout -b origin/rhino
+git merge main
+git checkout -b main
+git checkout rhino
+git checkout origin
+git checkout main
+git merge --no-ff rhino
+git merge rhind
+git merge --allow-unrelated-histories rhino
+git push origin main
+git fetch remote origin
+git fetch origin
+get checkout -b rhino/origin
+git checkout -b rhino/origin
+git merge main
+git fetch gemfile.lock
+git fetch main
+git fetch origin
+git checkout main
+git help
+git reset
+git pull remote
+git pull https://rubygems.org/
+git add remote https://rubygems.org/
+remote
+git remote
+git commit --amend-reset author
+git commit --amend
+git merge main
+git push rhino
+git push origin rhino
+git pull rhino
+git pull
+git push origin main
+git pull
+git fetch origin
+git pull
+git fetch main
+git fetch master
+git checkout -b rhino origin/main
+status
+apt install gridengine-client
+apt-get autoclean
+apt-get autoremove
+apt install mysql-server
+apt status
+statuw
+status
+qstatus
+sql
+mysql help
+mysql
+ap remove mysql
+apt remove mysql
+apt remove mysql-server
+sudo
+user
+usr
+esc
+apt esc
+-
+su
+help
+info bash
